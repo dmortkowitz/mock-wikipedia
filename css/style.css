@@ -16,7 +16,10 @@ ul {
   float:right;
   }
 
-.six {
-  background-color: red;
+
+.panel-heading.six {
+    background-image: none;
+    background-color: #ddcef2;
+    color: #faf5ff;
 
 }
