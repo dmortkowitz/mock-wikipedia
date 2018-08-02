@@ -1,0 +1,22 @@
+.sidenav {
+  float: left;
+  }
+ul {
+  list-style-type: none;
+  }
+
+.five{
+  font-size: 25px;
+  }
+
+.article1 {
+  float:left;
+}
+.article2 {
+  float:right;
+  }
+
+.six {
+  background-color: red;
+
+}
